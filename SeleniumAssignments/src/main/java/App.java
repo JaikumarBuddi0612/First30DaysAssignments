@@ -1,7 +1,3 @@
-package org.example;
-
-import org.openqa.selenium.chrome.ChromeDriver;
-
 import java.io.IOException;
 
 /**
